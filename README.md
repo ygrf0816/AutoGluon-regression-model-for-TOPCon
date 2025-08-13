@@ -164,6 +164,11 @@ After optimization, the best parameter combinations and their predicted performa
 ## 项目概述
 
 这个项目是论文“Machine Learning Guided Device-Level Design for High-Efficiency Tunnel Oxide Passivating Contact Solar Cells”的具体实现。相关的数据，模型以及论文中提到的所有参数的dependence plot可在此下载： https://data.mendeley.com/drafts/s2vnyfgc4s
+
+我们的论文引用为：
+
+C. Zhang, Z. Yang, Y. Zhang, et al. “ Machine Learning Guided Device-Level Design for High-Efficiency Tunnel Oxide Passivating Contact Solar Cells.” Small (2025): e06958. https://doi.org/10.1002/smll.202506958
+
 <img src=".\figure\TOC.png"  >
 
 本项目基于机器学习方法，构建了n型TOPCon（Tunnel Oxide Passivated Contact）太阳能电池的前向预测和反向设计框架。该框架结合了AutoGluon、LightGBM和遗传算法等工具，实现了：
